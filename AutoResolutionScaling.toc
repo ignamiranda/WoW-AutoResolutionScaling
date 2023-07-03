@@ -1,0 +1,6 @@
+## Interface: 100100
+## Title: AutoResolutionScaling
+## Author: Ignacio Miranda
+## Version 1.0
+
+main.lua
